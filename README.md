@@ -1,2 +1,1 @@
-# Git-Practice
-My Repository
+# Git Practice Project
